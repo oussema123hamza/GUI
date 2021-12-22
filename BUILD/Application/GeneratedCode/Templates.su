@@ -1,0 +1,3 @@
+Templates.c:32:6:TemplatesPushButton__Init	8	static
+Templates.c:45:6:TemplatesPushButton__ReInit	0	static
+Templates.c:52:6:TemplatesPushButton__Done	0	static

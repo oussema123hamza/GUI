@@ -1,0 +1,13 @@
+ew_bsp_display.c:179:13:WaitForDsiTransfer.part.0	16	static
+ew_bsp_display.c:106:6:HAL_DSI_MspInit	0	static
+ew_bsp_display.c:114:6:LTDC_IRQHandler	0	static
+ew_bsp_display.c:119:6:LTDC_ER_IRQHandler	0	static
+ew_bsp_display.c:124:6:DSI_IRQHandler	0	static
+ew_bsp_display.c:130:6:HAL_DSI_TearingEffectCallback	0	static
+ew_bsp_display.c:140:6:HAL_DSI_EndOfRefreshCallback	40	static
+ew_bsp_display.c:220:5:EwBspDisplayInit	184	static
+ew_bsp_display.c:444:6:EwBspDisplayDone	0	static
+ew_bsp_display.c:471:5:EwBspDisplayGetUpdateArea	0	static
+ew_bsp_display.c:498:6:EwBspDisplayWaitForCompletion	0	static
+ew_bsp_display.c:535:6:EwBspDisplayCommitBuffer	40	static
+ew_bsp_display.c:599:6:EwBspDisplaySetClut	32	static

@@ -1,0 +1,2 @@
+ew_bsp_system.c:207:6:EwBspSystemInit	192	static
+ew_bsp_system.c:242:6:EwBspSystemDone	0	static
